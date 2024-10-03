@@ -559,6 +559,10 @@ span {
     width: 40%;
 }
 
+.skills-column:nth-child(1) .skills-content .progress:nth-child(9) .bar span{
+    width: 60%;
+}
+
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span{
     width: 90%;
 }
